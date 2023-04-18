@@ -1,36 +1,19 @@
-# Portfolio
+# SQL 01 
 
- :mage: Welcome to my portfolio. Here you will find a collection of my work. I will be updating this as I go along.
+## Project Title: Performing Basic SQL Queries on Synthetic Dataset using Pandas, NumPy and SQLite in Python
+### Project Description:
+The goal of this project is to create a synthetic dataset using Python's Pandas and NumPy libraries, and then store it in an SQLite database. Once the dataset is stored, basic SQL queries will be performed on the data stored in the database using Python.
 
-## About me :technologist:
+To begin the project, the Jupyter Notebook will be used as an IDE to write the Python code. Pandas and NumPy libraries will be imported into the notebook. Pandas library will be used to create a DataFrame, which will represent the dataset. NumPy will be used to generate random data for the dataset.
 
-Hi there! My name is Tiago, and I am an experienced data analyst proficient in Excel, SQL, Python, and Power BI. With [insert number of years] of experience in the industry, I have gained a deep understanding of data analysis techniques and tools, allowing me to deliver valuable insights to organizations. I am passionate about uncovering patterns and trends in data and translating them into actionable recommendations that drive business success. I look forward to applying my skills and knowledge to help your organization achieve its data-driven goals.
+Once the dataset is created, SQLite will be used as a database management system to store the data. SQLite is a lightweight and efficient database system that can be easily integrated into Python projects.
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tiago-gingeira/) or [Twitter](https://twitter.com/tgingeira).
+The next step in the project is to connect to the SQLite database using the sqlite3 module in Python. After connecting to the database, the dataset will be sent to the database as a table using Pandas' to_sql method.
 
+After the dataset is stored in the SQLite database, basic SQL queries will be performed on the data. The SELECT statement will be used to retrieve data from the table. The WHERE clause will be used to filter data based on specific conditions. The GROUP BY clause will be used to group data by specific columns, and the ORDER BY clause will be used to sort the data.
 
-## SQL
-:unicorn: SQL
+After the dataset is stored in the SQLite database, basic SQL queries will be performed on the data using [ipython-sql](https://pypi.org/project/ipython-sql/). The SELECT statement will be used to retrieve data from the table. The WHERE clause will be used to filter data based on specific conditions. The GROUP BY clause will be used to group data by specific columns, and the ORDER BY clause will be used to sort the data.
 
-table of contents here
+Overall, this project will provide a hands-on experience with Python's Pandas, NumPy, and SQLite libraries, and will demonstrate how to store a synthetic dataset in a database and perform basic SQL queries on the data. This project is ideal for those looking to gain experience with data analysis, SQL, and Python.
 
-### Table of Contents
-
-- [SQL](#sql)
-- [Python](#python)
-- [Power BI](#power-bi)
-- [Tableau](#tableau)
-
-# SQL
-
-| Project | Description | Link |
-| --- | --- | --- |
-| :emoji: SQL | SQL | [Link](https://github.com/tgingeira/SQL/blob/main/sql_01.ipynb) |
-
-
-# Python
-
-# Power BI
-
-# Tableau
-
+# SQL 02
