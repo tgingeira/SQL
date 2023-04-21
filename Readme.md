@@ -1,7 +1,7 @@
-# [SQL 01](https://github.com/tgingeira/SQL/blob/main/sql_01.ipynb)
+# [SQL T01](https://github.com/tgingeira/SQL/blob/main/sql_01.ipynb)
 
-## Project Title: Performing Basic SQL Queries on Synthetic Dataset using Pandas, NumPy and SQLite in Python
-### Project Description:
+## Title: Mastering SQL Basics: How to Extract Data Using SELECT, FROM, and WHERE Commands
+###  Description:
 The goal of this project is to create a synthetic dataset using Python's Pandas and NumPy libraries, and then store it in an SQLite database. Once the dataset is stored, basic SQL queries will be performed on the data stored in the database using Python.
 
 To begin the project, the Jupyter Notebook will be used as an IDE to write the Python code. Pandas and NumPy libraries will be imported into the notebook. Pandas library will be used to create a DataFrame, which will represent the dataset. NumPy will be used to generate random data for the dataset.
@@ -16,4 +16,4 @@ After the dataset is stored in the SQLite database, basic SQL queries will be pe
 
 Overall, this project will provide a hands-on experience with Python's Pandas, NumPy, and SQLite libraries, and will demonstrate how to store a synthetic dataset in a database and perform basic SQL queries on the data. This project is ideal for those looking to gain experience with data analysis, SQL, and Python.
 
-# [SQL 02](https://github.com/tgingeira/SQL/blob/main/sql_02.ipynb)
+# [SQL T02](https://github.com/tgingeira/SQL/blob/main/sql_02.ipynb)
